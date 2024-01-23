@@ -25,19 +25,6 @@
                         { "name":"BlendMicro 3.3v/8MHz" },
                         { "name":"BlendMicro 3.3v/16MHz(overclock)" }
                     ],
-                    "toolsDependencies":
-                    [
-                        {
-                            "packager":"arduino",
-                            "name":"avr-gcc",
-                            "version":"4.8.1-arduino5"
-                        },
-                        {
-                            "packager":"arduino",
-                            "name":"avrdude",
-                            "version":"6.0.1-arduino5"
-                        }
-                    ]
                 },
                 {
                     "name":"RedBear AVR Boards",
@@ -88,14 +75,12 @@
                     "toolsDependencies":
                     [
                         {
-                            "packager":"arduino",
-                            "name":"avr-gcc",
-                            "version":"4.8.1-arduino5"
+                            "packager":"Arduino",
+                            "name":"avr-gcc"
                         },
                         {
                             "packager":"arduino",
-                            "name":"avrdude",
-                            "version":"6.0.1-arduino5"
+                            "name":"avrdude"
                         }
                     ]
                 },
