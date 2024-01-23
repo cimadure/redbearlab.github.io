@@ -14,7 +14,7 @@
                     "architecture":"avr",
                     "version":"1.0.0",
                     "category":"RedBear",
-                    "url":"https://github.com/cimadure/redbearlab.github.io/blob/master/arduino/Blend/blend_boards.zip",
+                    "url":"https://github.com/cimadure/redbearlab.github.io/raw/master/arduino/Blend/blend_boards.zip",
                     "archiveFileName":"blend_boards.zip",
                     "checksum":"SHA-256:B7D6590629FD2720986B2F06891C63654F7BFE708BF5134FB7E41BD5B4781802",
                     "size":"52218",
